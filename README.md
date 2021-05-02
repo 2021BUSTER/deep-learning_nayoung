@@ -1,4 +1,4 @@
-# deep-learning_nayoung
+# deeplearning study for capstone
 
 ## Log
 - 2021-04-11 :  4 ~ 9장  
